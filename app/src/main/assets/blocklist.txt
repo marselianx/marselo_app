@@ -1,0 +1,74 @@
+# One domain per line. A domain also blocks all its subdomains (ads.example.com is caught by example.com).
+# Lines starting with # are comments. Add any ad / pop-up host you see and rebuild.
+
+# Google ads
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+adservice.google.com
+2mdn.net
+# Pop-under / push networks
+popads.net
+popcash.net
+popmyads.com
+popunderjs.com
+propellerads.com
+propellerclick.com
+onclickads.net
+onclkds.com
+clickadu.com
+clickaine.com
+hilltopads.net
+hilltopads.com
+adcash.com
+adsco.re
+realsrv.com
+tsyndicate.com
+ad-maven.com
+admaven.com
+monetag.com
+richads.com
+pushame.com
+yllix.com
+bidvertiser.com
+plugrush.com
+# Adsterra
+adsterra.com
+adsterratools.com
+highperformanceformat.com
+profitablecpmrate.com
+effectivegatecpm.com
+cpmrevenuegate.com
+displayvertising.com
+# ExoClick / TrafficJunky / JuicyAds
+exoclick.com
+exosrv.com
+exdynsrv.com
+magsrv.com
+pemsrv.com
+trafficjunky.com
+trafficstars.com
+juicyads.com
+ero-advertising.com
+# A-ADS and misc
+a-ads.com
+# Native / content-recommendation ads
+taboola.com
+outbrain.com
+mgid.com
+adskeeper.com
+adskeeper.co.uk
+revcontent.com
+# Programmatic exchanges
+adnxs.com
+adsrvr.org
+criteo.com
+criteo.net
+rubiconproject.com
+pubmatic.com
+openx.net
+smartadserver.com
+casalemedia.com
+moatads.com
+adform.net
+amazon-adsystem.com
